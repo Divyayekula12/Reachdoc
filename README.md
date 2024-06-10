@@ -1,2 +1,2 @@
 ReachDoc
-A platform which address the solution for the people who are having misconceptions on the government doctors. To provide healthcare access to everyone irrespective of the financial status.
+A platform is needed to connect individuals with government healthcare providers, addressing and dispelling misconceptions about the quality of public hospitals. This initiative aims to ensure equitable healthcare access for everyone, regardless of their financial situation.
